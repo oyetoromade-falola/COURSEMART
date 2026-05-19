@@ -1,8 +1,3 @@
-<?php
-session_start();
-$username = $_SESSION['username'] ?? 'Guest';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
